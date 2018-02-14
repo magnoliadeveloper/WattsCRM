@@ -1,0 +1,12 @@
+C:\Projects\WattsCRM\WattsCRM\bin\Debug\netcoreapp2.0\WattsCRM.deps.json
+C:\Projects\WattsCRM\WattsCRM\bin\Debug\netcoreapp2.0\WattsCRM.runtimeconfig.json
+C:\Projects\WattsCRM\WattsCRM\bin\Debug\netcoreapp2.0\WattsCRM.runtimeconfig.dev.json
+C:\Projects\WattsCRM\WattsCRM\bin\Debug\netcoreapp2.0\WattsCRM.dll
+C:\Projects\WattsCRM\WattsCRM\bin\Debug\netcoreapp2.0\WattsCRM.pdb
+C:\Projects\WattsCRM\WattsCRM\obj\Debug\netcoreapp2.0\WattsCRM.csproj.CoreCompileInputs.cache
+C:\Projects\WattsCRM\WattsCRM\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projects\WattsCRM\WattsCRM\obj\Debug\netcoreapp2.0\WattsCRM.AssemblyInfoInputs.cache
+C:\Projects\WattsCRM\WattsCRM\obj\Debug\netcoreapp2.0\WattsCRM.AssemblyInfo.cs
+C:\Projects\WattsCRM\WattsCRM\obj\Debug\netcoreapp2.0\WattsCRM.dll
+C:\Projects\WattsCRM\WattsCRM\obj\Debug\netcoreapp2.0\WattsCRM.pdb
+C:\Projects\WattsCRM\WattsCRM\obj\Debug\netcoreapp2.0\WattsCRM.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\WattsCRM.UnitTests.deps.json
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\WattsCRM.UnitTests.dll
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\WattsCRM.UnitTests.pdb
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\WattsCRM.dll
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\WattsCRM.pdb
+C:\Projects\WattsCRM\WattsCRM.UnitTests\obj\Debug\netcoreapp2.0\WattsCRM.UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\WattsCRM\WattsCRM.UnitTests\obj\Debug\netcoreapp2.0\WattsCRM.UnitTests.csproj.CoreCompileInputs.cache
+C:\Projects\WattsCRM\WattsCRM.UnitTests\obj\Debug\netcoreapp2.0\WattsCRM.UnitTests.AssemblyInfoInputs.cache
+C:\Projects\WattsCRM\WattsCRM.UnitTests\obj\Debug\netcoreapp2.0\WattsCRM.UnitTests.AssemblyInfo.cs
+C:\Projects\WattsCRM\WattsCRM.UnitTests\obj\Debug\netcoreapp2.0\WattsCRM.UnitTests.dll
+C:\Projects\WattsCRM\WattsCRM.UnitTests\obj\Debug\netcoreapp2.0\WattsCRM.UnitTests.pdb
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\WattsCRM.UnitTests.runtimeconfig.json
+C:\Projects\WattsCRM\WattsCRM.UnitTests\bin\Debug\netcoreapp2.0\WattsCRM.UnitTests.runtimeconfig.dev.json

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1140 360"
+   enable-background="new 0 0 1140 360"
+   version="1.1"
+   id="svg3896"
+   sodipodi:docname="banner2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata3902">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3900" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3898"
+     showgrid="false"
+     inkscape:zoom="0.25175439"
+     inkscape:cx="570"
+     inkscape:cy="180"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3896" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="313.79791"
+     y="62.090591"
+     id="text3942"><tspan
+       sodipodi:role="line"
+       x="313.79791"
+       y="62.090591"
+       id="tspan3948">Already have a CRM? </tspan><tspan
+       sodipodi:role="line"
+       x="313.79791"
+       y="112.09059"
+       id="tspan3944" /></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3991"
+     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion3993"><rect
+         id="rect3995"
+         width="270.10452"
+         height="67.526131"
+         x="889.7561"
+         y="-92.822296" /></flowRegion><flowPara
+       id="flowPara3997"></flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="92.257011"
+     y="251.87137"
+     id="text3960"><tspan
+       sodipodi:role="line"
+       id="tspan3958"
+       x="92.257011"
+       y="251.87137">Our experts can help migrate your data for free!</tspan></text>
+  <rect
+     style="fill:#000080;stroke-width:1.24211848"
+     id="rect4095"
+     width="47.665535"
+     height="321.74219"
+     x="31.777002"
+     y="-340.13937"
+     transform="scale(1,-1)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="413.10104"
+     y="161.39374"
+     id="text4134"><tspan
+       sodipodi:role="line"
+       id="tspan4132"
+       x="413.10104"
+       y="161.39374">No Problem!</tspan></text>
+  <rect
+     style="fill:#000080;stroke-width:1.24211848"
+     id="rect4095-1"
+     width="47.665535"
+     height="321.74219"
+     x="1080.4181"
+     y="-342.12543"
+     transform="scale(1,-1)" />
+  <ellipse
+     style="fill:#000080"
+     id="path4205"
+     cx="182.71776"
+     cy="66.062721"
+     rx="47.665504"
+     ry="39.721256" />
+  <ellipse
+     style="fill:#000080"
+     id="path4205-3"
+     cx="913.58893"
+     cy="62.090572"
+     rx="47.665504"
+     ry="39.721256" />
+  <ellipse
+     style="fill:#000080"
+     id="path4205-7"
+     cx="285.99304"
+     cy="157.4216"
+     rx="47.665504"
+     ry="39.721256" />
+  <ellipse
+     style="fill:#000080"
+     id="path4205-4"
+     cx="766.62018"
+     cy="157.4216"
+     rx="47.665504"
+     ry="39.721256" />
+</svg>

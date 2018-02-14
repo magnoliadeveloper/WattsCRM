@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1140 360"
+   enable-background="new 0 0 1140 360"
+   version="1.1"
+   id="svg57"
+   sodipodi:docname="banner1.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs61" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview59"
+     showgrid="false"
+     inkscape:zoom="0.25175439"
+     inkscape:cx="570"
+     inkscape:cy="180"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg57" />
+  <path
+     fill="#56B4D9"
+     d="M0 0h1140v360h-1140v-360z"
+     id="path53" />
+  <path
+     style="fill:#000080"
+     id="path3778"
+     d="m 234.44924,188.95649 c 2.60684,-0.97723 5.25746,-1.84481 7.82052,-2.9317 12.58678,-5.33754 24.35941,-12.34828 36.78381,-18.05529 9.99749,-4.59224 22.77333,-9.87773 32.80855,-14.10966 35.33694,-15.45858 72.75693,-25.25347 110.29842,-33.63274 22.53437,-4.87219 45.43265,-7.10354 68.42966,-7.92417 19.05345,-1.44134 30.18274,1.55012 46.7747,10.91098 21.87477,11.70728 41.50146,26.8868 62.03816,40.65688 12.41975,8.48681 24.4043,18.06672 37.84918,24.92853 8.84437,3.91123 17.27014,8.95012 25.87686,13.45481 15.74114,10.0246 32.51101,18.23294 48.7379,27.37938 8.60924,6.22084 18.4624,10.38007 27.47348,15.90383 20.07595,12.30647 -7.41618,-3.46146 12.83329,7.97682 13.36984,8.78922 27.72415,15.46523 43.23115,19.32604 12.02033,2.65338 24.36693,2.49924 36.60313,2.62284 17.9025,0.0648 35.80525,-0.008 53.70744,-0.11705 11.9563,0.29474 23.97151,-0.60563 35.5862,-3.52669 8.5658,-2.65027 15.71274,-7.9877 24.2557,-10.64027 8.49648,-3.12138 17.2681,-5.53183 25.67599,-8.87908 5.41949,-2.49155 11.51259,-2.70228 17.06569,-4.723 3.8315,-1.39423 7.5169,-3.16266 11.3086,-4.66167 8.86173,-4.13289 17.82423,-8.04459 26.46643,-12.62553 0,0 -45.95889,36.79428 -45.95889,36.79428 v 0 c -8.80337,4.23394 -17.63883,8.41169 -26.6909,12.09425 -9.42055,3.65565 -19.15045,6.05369 -28.66163,9.42915 -8.6222,2.85705 -17.19056,5.8776 -25.72675,8.98043 -8.10011,3.57973 -15.78363,8.21847 -24.64485,9.80712 -11.90943,1.98845 -23.87044,2.87651 -35.95586,2.32287 -17.9348,-0.007 -35.86928,0.11043 -53.80402,0.10179 -12.63809,-0.0987 -25.3369,-0.23048 -37.58676,-3.78724 -15.63704,-4.68978 -30.1322,-11.98608 -43.97432,-20.62734 -13.412,-7.89203 -26.8166,-15.78071 -40.07207,-23.94281 -16.29253,-9.05217 -32.78153,-17.7502 -48.97599,-26.98761 -8.74158,-4.44968 -17.32043,-9.20584 -26.14799,-13.47836 -13.02325,-7.73455 -24.98645,-17.17237 -37.32749,-25.91846 -20.18169,-14.01938 -39.95617,-28.71435 -61.92356,-39.9327 -15.66487,-7.59393 -27.8437,-9.78954 -45.21413,-8.29609 -22.46186,0.8586 -44.82949,3.26315 -66.82414,8.04999 -37.35925,8.39326 -74.40497,18.70316 -109.47065,34.31593 -11.74207,5.07438 -21.47042,9.1462 -32.95102,14.5917 -15.30214,7.25813 -30.01654,15.81499 -46.00859,21.55424 0,0 46.29475,-36.4044 46.29475,-36.4044 z"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="87.386757"
+     y="89.89547"
+     id="text3782"><tspan
+       sodipodi:role="line"
+       id="tspan3780"
+       x="87.386757"
+       y="89.89547">Watts CRM in top 10 among all CRM - Forbes</tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3784"
+     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion3786"><rect
+         id="rect3788"
+         width="87.387253"
+         height="67.505455"
+         x="607.73468"
+         y="189.21928" /></flowRegion><flowPara
+       id="flowPara3790"></flowPara></flowRoot></svg>
